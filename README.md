@@ -1,5 +1,5 @@
 ## Web Development Learning
-I'm currently enrolled in the Web Development track at [Lambda School](https://lambdaschool.com/) and expect to complete it in May 2021.
+I'm enrolled in the Web Development track at [Lambda School](https://lambdaschool.com/) and expect to complete it in May 2021.
 
 I completed [Udacity's Full Stack](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044) nanodegree in November 2020.<br/>
 [Completion Certificate](https://confirm.udacity.com/AYAMAM7T)
