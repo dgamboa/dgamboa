@@ -4,6 +4,8 @@ Hi there, my name is Daniel Gamboa and I've spent the last few years developing 
 ## Side Projects
 Check out [rocketree.com](https://rocketree.com), a Wordpress site where Matt Harris and I write about our learnings about learning.
 
+Check out [nasa-apod-site](https://nasa-apod-site.netlify.app/), a simple app leveraging NASA's API to display the astronomy picture of the day.
+
 *Shh... the rest are top secret*
 
 Just kidding... I'll be adding some more links to additional side projects here soon.
