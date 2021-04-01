@@ -4,7 +4,7 @@ Hi there, my name is Daniel Gamboa and I've spent the last few years developing 
 ## Side Projects
 Check out [rocketree.com](https://rocketree.com), a Wordpress site where Matt Harris and I write about our learnings about learning.
 
-Check out [Lambda Cards](lambdacards.com), a simple flashcards app to study for the Lambda School web core interview.
+Check out [Lambda Cards](http://lambdacards.com), a simple flashcards app to study for the Lambda School web core interview.
 
 Check out the [Food Trucks API](https://github.com/dgamboa/foodtrucks-backend), a RESTful API with authentication functionality for users to find and explore food trucks, their menus and their ratings.
 
