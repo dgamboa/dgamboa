@@ -9,8 +9,8 @@ Hello, I'm Daniel :wave:. I've spent the last few years working and leading mult
 * Professionalizing my software engineering skills at [Lambda School](https://lambdaschool.com/)
 * Actively looking for software engineering roles (i.e. I code, I interview, I eat, I sleep... I repeat)
 * Training for and racing in long-distance triathlons (next major race: [Ironman Texas](https://www.ironman.com/im-texas))
-* Currently Living: Texas with my wife and kids
-* Currently Learning: internet infrastructure systems and crypto-economics
+* :house: Currently Living: Texas with my wife and kids
+* :book: Currently Learning: internet infrastructure systems and crypto-economics
 
 ## Side Projects
 [x] [Rocketree](https://rocketree.com): a Wordpress site where [Matt Harris](https://www.linkedin.com/in/mgharris34/) and I write about our learnings about learning.
