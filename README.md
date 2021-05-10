@@ -20,6 +20,6 @@ Hello, I'm Daniel :wave:. I've spent the last few years working and leading mult
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=dgamboa&show_icons=true&count_private=true&theme=blueberry)" alt="My GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=dgamboa&show_icons=true&count_private=true&theme=vue-dark" alt="My GitHub Stats">
   </a>
 </p>
