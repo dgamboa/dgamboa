@@ -1,4 +1,6 @@
-![Banner photo for GitHub profile](https://github.com/dgamboa/dgamboa/blob/master/assets/maui_road.jpg)
+<p align="center">
+  <img src="https://github.com/dgamboa/dgamboa/blob/master/assets/maui_road.jpg" alt="Banner photo for GitHub profile">
+</p>
 
 # Focused on Strategic Finance and Web Development
 Hi there, my name is Daniel Gamboa and I've spent the last few years developing my skills around strategic finance and project management. I used to code on the side for fun but, in a bid to have more fun recently, I've flipped my schedule. I'm now spending most of my time coding while working on strategic finance projects on the side. I think these two interests will merge at some point for compounding fun. 
