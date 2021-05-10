@@ -18,6 +18,11 @@ Hello, I'm Daniel :wave:. I've spent the last few years working and leading mult
 - [x] [Food Trucks API](https://github.com/dgamboa/foodtrucks-backend): a RESTful API with for users to find and explore food trucks, their menus and their ratings
 - [x] [NASA Astronomy Picture of the Day](https://nasa-apod-site.netlify.app/): a simple app leveraging [NASA's API](https://api.nasa.gov/) and [React](https://reactjs.org/) to display the astronomy picture of the day
 
+## Skills & Tools
+* Programming: Git, HTML, CSS, JavaScript, React, Redux, Node.js, Express, Python, Flask, Ruby, Rails, PostgreSQL, Heroku
+* Productivity: Excel, PowerPoint, Word, Spotfire
+* Languages: English, Spanish (Fluent)
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=dgamboa&show_icons=true&count_private=true&theme=vue-dark" alt="My GitHub Stats">
