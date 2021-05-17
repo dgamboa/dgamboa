@@ -7,7 +7,7 @@ Hello, I'm Daniel :wave:. I've spent the last few years working and leading mult
 
 ## Now
 * Professionalizing my software engineering skills at [Lambda School](https://lambdaschool.com/)
-* Actively looking for software engineering roles (i.e. I code, I interview, I eat, I sleep... I repeat)
+* Actively looking for software engineering roles
 * Training for and racing in long-distance triathlons (next major race: [Ironman Texas](https://www.ironman.com/im-texas))
 * :house: Currently Living: Texas with my wife and kids
 * :book: Currently Learning: internet infrastructure and crypto-economics
