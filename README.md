@@ -20,7 +20,6 @@ Hello, I'm Daniel :wave:. I've spent the last few years working and leading mult
 
 ## Skills & Tools
 * Programming: Git, HTML, CSS, JavaScript, React, Redux, Node.js, Express, Python, Flask, Ruby, Rails, PostgreSQL, Heroku
-* Productivity: Excel, PowerPoint, Word, Spotfire
 * Languages: English, Spanish (Fluent)
 
 <p align="center">
