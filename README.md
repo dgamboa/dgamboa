@@ -3,14 +3,14 @@
 </p>
 
 # Full Stack Engineer
-Hello, I'm Daniel :wave:. I've spent the last few years working and leading multi-disciplinary teams in strategic finance. I used to program on the side for fun but I flipped my schedule in early 2021. I now spend most of my time programming while working on strategic finance projects on the side. I think these two interests will merge at some point for compounding fun :rocket:
+Hello, I'm Daniel :wave:. I've spent the last few years working in strategic finance and leading multi-disciplinary teams. I used to reflect longingly on my engineering days at Texas A&M and my short stint as a web developer at Dev Bootcamp, but I reframed the narrative in early 2021. I now spend most of my time programming while working on strategic finance projects on the side. I think these two interests will merge at some point for compounding fun :rocket:
 
 ## Now
 * Professionalizing my software engineering skills at [Lambda School](https://lambdaschool.com/)
 * Actively looking for software engineering roles
 * Training for and racing in long-distance triathlons (next major race: [Ironman Texas](https://www.ironman.com/im-texas))
-* :house: Currently Living: Texas with my wife and kids
-* :book: Currently Learning: internet infrastructure and crypto-economics
+* :house: Currently living in Texas with my wife and kids
+* :book: Currently learning about software engineering, internet infrastructure and crypto-economics
 
 ## Side Projects
 - [x] [Rocketree](https://rocketree.com): a Wordpress site where [Matt Harris](https://www.linkedin.com/in/mgharris34/) and I write about our learnings about learning
