@@ -6,8 +6,7 @@
 Hello, I'm Daniel :wave:. I've spent the last few years working in strategic finance and leading multi-disciplinary teams. I used to reflect longingly on my engineering days at Texas A&M and my short stint as a web developer at Dev Bootcamp, but I reframed the narrative in early 2021. I now spend most of my time programming while working on strategic finance projects on the side. I think these two interests will merge at some point for compounding fun :rocket:
 
 ## Now
-* Professionalizing my software engineering skills at [Lambda School](https://lambdaschool.com/)
-* Actively looking for software engineering roles
+* Learning everything I can about software engineering and internet systems
 * Training for and racing in long-distance triathlons (next major race: [Ironman Texas](https://www.ironman.com/im-texas))
 * :house: Currently living in Texas with my wife and kids
 * :book: Currently learning about software engineering, internet infrastructure and crypto-economics
