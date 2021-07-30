@@ -8,9 +8,9 @@ Hello, I'm Daniel :wave:. I've spent the last few years working in strategic fin
 ## Now
 * Building systems and resources to support the development of Web3
 * Training for and racing in long-distance triathlons (next major race: [Ironman Texas](https://www.ironman.com/im-texas))
-* :house: Currently living in Texas
-* :book: Currently learning about blockchain technologies
-* :lift🏋️‍♂️: Currently optimizing software engineering reps
+* 🏡 Currently living in Texas
+* 📖 Currently learning about blockchain technologies
+* 🏋️‍♂️ Currently optimizing software engineering reps
 
 ## Side Projects
 - [x] [Rocketree](https://rocketree.com): a Wordpress site where [Matt Harris](https://www.linkedin.com/in/mgharris34/) and I write about our learnings about learning
