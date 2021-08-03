@@ -14,7 +14,7 @@ Hello, I'm Daniel :wave:. I've spent the last few years working in strategic fin
 
 ## Side Projects
 - [x] [Rocketree](https://rocketree.com): a Wordpress site where [Matt Harris](https://www.linkedin.com/in/mgharris34/) and I write about our learnings about learning
-- [x] [Lambda Cards](https://www.lambdacards.com): a flashcards app to study for the Lambda School web core interview
+- [x] [Lambda Cards](http://www.lambdacards.com): a flashcards app to study for the Lambda School web core interview
 - [x] [Food Trucks API](https://github.com/dgamboa/foodtrucks-backend): a RESTful API with for users to find and explore food trucks, their menus and their ratings
 - [x] [NASA Astronomy Picture of the Day](https://nasa-apod-site.netlify.app/): a simple app leveraging [NASA's API](https://api.nasa.gov/) and [React](https://reactjs.org/) to display the astronomy picture of the day
 
