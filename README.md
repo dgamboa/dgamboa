@@ -3,14 +3,13 @@
 </p>
 
 # Full Stack Engineer + Strategic Finance
-Hello, I'm Daniel :wave:. I've spent the last few years working in strategic finance and leading multi-disciplinary teams. I used to reflect longingly on my engineering days at Texas A&M and my short stint as a web developer at Dev Bootcamp, but I reframed the narrative in early 2021. I now spend most of my time programming while working on strategic finance projects on the side. I think these two interests will merge at some point for compounding fun :rocket:
+Hello, I'm Daniel :wave:. I've spent the last few years working in strategic finance and leading multi-disciplinary teams. I used to reflect longingly on my engineering days at Texas A&M and my short stint as a web developer at Dev Bootcamp, but I reframed the narrative in early 2021. I joined Figment as a software engineer and later transitioned into product management. I'm currently working on [Builder DAO](builderdao.notion.site) combining all my interests for compounding fun :rocket:
 
 ## Now
-* Building systems and resources to support the development of Web3
+* Building a web3 learning platform called Kafé at Builder DAO
 * Training for and racing in long-distance triathlons (next major race: [Ironman Texas](https://www.ironman.com/im-texas))
 * 🏡 Currently living in Texas
 * 📖 Currently learning about blockchain technologies
-* 🏋️‍♂️ Currently optimizing software engineering reps
 
 ## Side Projects
 - [x] [Rocketree](https://rocketree.com): a Wordpress site where [Matt Harris](https://www.linkedin.com/in/mgharris34/) and I write about our learnings about learning
@@ -19,7 +18,7 @@ Hello, I'm Daniel :wave:. I've spent the last few years working in strategic fin
 - [x] [NASA Astronomy Picture of the Day](https://nasa-apod-site.netlify.app/): a simple app leveraging [NASA's API](https://api.nasa.gov/) and [React](https://reactjs.org/) to display the astronomy picture of the day
 
 ## Skills & Tools
-* Programming: Git, HTML, CSS, JavaScript, React, Redux, Node.js, Express, Python, Flask, Ruby, Rails, PostgreSQL, Heroku
+* Programming: Git, HTML, CSS, JavaScript, React, Redux, Node.js, Express, Python, Flask, Ruby, Rails, PostgreSQL, Heroku, Solidity
 * Languages: English, Spanish (Fluent)
 
 <p align="center">
