@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dgamboa/dgamboa/blob/master/assets/background_profile.jpg" alt="Banner photo for GitHub profile">
+  <img src="https://github.com/dgamboa/dgamboa/blob/master/assets/background_profile.png" alt="Banner photo for GitHub profile">
 </p>
 
 # Full Stack {Everything}
