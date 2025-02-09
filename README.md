@@ -9,7 +9,7 @@ Hello, I'm Daniel :wave:. I've spent the last few years working in multiple fast
 * Exploring the AI application layer
 * Perpetual student of mastery learning, financial history, and global energy
 * Husband to one, dad to four
-* Staying in shape to race [Ironman Texas](https://www.ironman.com/im-texas)) again soon
+* Staying in shape to race [Ironman Texas](https://www.ironman.com/im-texas) again soon
 * 🏡 Currently living in Texas
 
 ## Skills & Tools
