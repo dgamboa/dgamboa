@@ -11,13 +11,3 @@ Hello, I'm Daniel :wave:. I've spent the last few years working in multiple fast
 * Husband to one, dad to four
 * Staying in shape to race [Ironman Texas](https://www.ironman.com/im-texas) again soon
 * 🏡 Currently living in Texas
-
-## Skills & Tools
-* Programming: Git, HTML, CSS, JavaScript, React, Redux, Node.js, Express, Python, Flask, Ruby, Rails, PostgreSQL, Heroku, Solidity
-* Languages: English, Spanish
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=dgamboa&show_icons=true&count_private=true&theme=vue-dark" alt="My GitHub Stats">
-  </a>
-</p>
